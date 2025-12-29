@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Bhalerao 👋
+# Hi there, I'm Aditya Pravin Bhalerao 👋
 
 ### AI & Data Science Enthusiast | Impact-Driven Developer
 
