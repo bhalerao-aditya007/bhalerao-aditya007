@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Bhalerao 👋
 
-### AI & Data Science Enthusiast | Machine Learning Engineer | Impact-Driven Developer
+### AI & Data Science Enthusiast | Impact-Driven Developer
 
 ## 🚀 About Me
 
