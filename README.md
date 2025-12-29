@@ -1,10 +1,6 @@
 # Hi there, I'm Aditya Bhalerao 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Engineer;Impact-Driven+Developer;Global+Affairs+Advocate)
-  
-</div>
+### AI & Data Science Enthusiast | Machine Learning Engineer | Impact-Driven Developer
 
 ## 🚀 About Me
 
@@ -76,36 +72,18 @@ Beyond code, I maintain a keen interest in **diplomacy and global affairs**, whi
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhalerao-aditya007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhalerao-aditya007&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalerao-aditya007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhalerao-aditya007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhalerao-aditya007&theme=tokyonight&hide_border=false)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=bhalerao-aditya007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalerao-aditya007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### ✍️ Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=bhalerao-aditya007&icon=2&color=3)](https://visitcount.itsvg.in)
 
