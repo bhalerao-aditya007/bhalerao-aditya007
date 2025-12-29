@@ -19,7 +19,7 @@ Beyond code, I maintain a keen interest in **diplomacy and global affairs**, whi
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-bhalerao-712345333)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bhalerao_aditya07)
@@ -67,26 +67,4 @@ Beyond code, I maintain a keen interest in **diplomacy and global affairs**, whi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhalerao-aditya007&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=6b7280&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=bhalerao-aditya007&theme=transparent&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=6b7280" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhalerao-aditya007&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=6b7280" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=bhalerao-aditya007&icon=2&color=3)](https://visitcount.itsvg.in)
-
-**⭐️ From [bhalerao-aditya007](https://github.com/bhalerao-aditya007)**
-
-</div>
