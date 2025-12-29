@@ -69,15 +69,15 @@ Beyond code, I maintain a keen interest in **diplomacy and global affairs**, whi
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhalerao-aditya007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=bhalerao-aditya007&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=6b7280&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhalerao-aditya007&theme=tokyonight&hide_border=false)
+<img src="https://streak-stats.demolab.com/?user=bhalerao-aditya007&theme=transparent&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=6b7280" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhalerao-aditya007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhalerao-aditya007&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=6b7280" alt="Top Languages" />
 
 </div>
 
