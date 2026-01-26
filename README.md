@@ -12,7 +12,7 @@ Beyond code, I maintain a keen interest in **diplomacy and global affairs**, whi
 
 - 🤖 Build end-to-end ML/AI solutions
 - 📊 Design scalable data pipelines
-- 🌍 Explore the intersection of technology and global policy
+- 🌍 Explore the intersection of technology and research
 - 💡 Contribute to open-source projects
 
 ---
